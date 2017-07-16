@@ -1,0 +1,1315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Auth",
+				"Auth::check\tDetermine if the current user is authenticated."
+			],
+			[
+				"redi",
+				"RedirectsUsers"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"Mail",
+				"Mail::queue\tQueue a new e-mail message for sending."
+			],
+			[
+				"rule",
+				"rule_id"
+			],
+			[
+				"retur",
+				"returnRuleId"
+			],
+			[
+				"ru",
+				"rule_name"
+			],
+			[
+				"rul",
+				"rule_name"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"ar",
+				"array\t$… = array (…)"
+			],
+			[
+				"rol",
+				"roleName"
+			],
+			[
+				"role",
+				"role2"
+			],
+			[
+				"che",
+				"check_rule"
+			],
+			[
+				"ch",
+				"check_rule"
+			],
+			[
+				"Route",
+				"Route::group\tCreate a Group of Routes"
+			],
+			[
+				"ro",
+				"role"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"user",
+				"user_rules"
+			],
+			[
+				"arr",
+				"array_diff"
+			],
+			[
+				"u",
+				"user_id"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ema",
+				"email_check"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"logi",
+				"login_check"
+			],
+			[
+				"li",
+				"login_check"
+			],
+			[
+				"form_p",
+				"form_pass_2"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"d",
+				"details"
+			],
+			[
+				"curl",
+				"curl_exec"
+			],
+			[
+				"inp",
+				"inputGroupSuccess1Status"
+			],
+			[
+				"ari",
+				"aria-describedby"
+			],
+			[
+				"data",
+				"data-placement"
+			],
+			[
+				"form_pr",
+				"form_primeiro_nome"
+			],
+			[
+				"for",
+				"formlabel\t{!! Form::label() !!}"
+			],
+			[
+				"Ma",
+				"Mail::send\tSend a new message using a view."
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Reques",
+				"Request::url\tGet the URL (no query string) for the request."
+			],
+			[
+				"mail",
+				"mailgun"
+			],
+			[
+				"ap",
+				"api_token"
+			],
+			[
+				"Sche",
+				"Schema::table-update\tUpdate an existing table"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"lis",
+				"listaDeTarefas"
+			],
+			[
+				"Sc",
+				"Schema::dropIfExists\tDrop an existing database table if it exists"
+			],
+			[
+				"S",
+				"Storage::delete\tRemove one or multiple files from the disk"
+			],
+			[
+				"pacie",
+				"paciente_id"
+			],
+			[
+				"paciente",
+				"paciente_id"
+			],
+			[
+				"pac",
+				"paciente_id"
+			],
+			[
+				"Ficha",
+				"FichaPaciente"
+			],
+			[
+				"Reque",
+				"Request"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"pa",
+				"paciente"
+			],
+			[
+				"paci",
+				"pacientes"
+			],
+			[
+				"cons",
+				"consulta"
+			],
+			[
+				"route",
+				"Route"
+			],
+			[
+				"Pa",
+				"Pacientes"
+			],
+			[
+				"Requ",
+				"Requests"
+			],
+			[
+				"pacit",
+				"paciente"
+			],
+			[
+				"produ",
+				"produtos"
+			],
+			[
+				"requ",
+				"Request"
+			],
+			[
+				"Ins",
+				"Inscreva-se"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"flas",
+				"flash"
+			],
+			[
+				"Sesion",
+				"Session::flash\tFlash an Item in the Session"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"Sessio",
+				"Session::flash\tFlash an Item in the Session"
+			],
+			[
+				"Request",
+				"Request::ips\tReturns the client IP addresses."
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"pro",
+				"produtos"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"interfae",
+				"interface"
+			],
+			[
+				"Contato",
+				"ContatoController"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"I",
+				"Input::flash\tFlash Input to the Session"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"fse",
+				"fset\tFat-Free set statement"
+			],
+			[
+				"Com",
+				"complex"
+			],
+			[
+				"ali",
+				"alias_exemplo"
+			],
+			[
+				"l",
+				"lista_dialogo"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"te",
+				"textScoobyDoo"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"enco",
+				"encoded"
+			],
+			[
+				"deco",
+				"decode"
+			],
+			[
+				"base_",
+				"base64_decode"
+			],
+			[
+				"fbase",
+				"fbase64\tFat-Free base64"
+			],
+			[
+				"str",
+				"str_com_underline"
+			],
+			[
+				"array_f",
+				"array_flip"
+			],
+			[
+				"frut",
+				"frutas"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"new",
+				"newObj"
+			],
+			[
+				"fre",
+				"fref\tFat-Free ref"
+			],
+			[
+				"aray",
+				"array"
+			],
+			[
+				"time",
+				"timestamp3"
+			],
+			[
+				"my",
+				"myVar"
+			],
+			[
+				"beer",
+				"beer_list"
+			],
+			[
+				"f",
+				"f3"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"rou",
+				"route"
+			],
+			[
+				"login",
+				"login_key"
+			],
+			[
+				"vetor",
+				"vetor_dados"
+			],
+			[
+				"sa",
+				"saidaDecrypt"
+			],
+			[
+				"co",
+				"coun"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"lin",
+				"lineExplode"
+			],
+			[
+				"line",
+				"lineExplode"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"fo",
+				"fopen"
+			],
+			[
+				"ma",
+				"max_filesize"
+			],
+			[
+				"di",
+				"dir_destino"
+			],
+			[
+				"dir_",
+				"dir_log"
+			],
+			[
+				"isS",
+				"isSalveVar"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"is_",
+				"is_array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp64/www/acl-master/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 768,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/acl-master/app/Http/Controllers/PostController.php",
+			"settings":
+			{
+				"buffer_size": 2969,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/acl-master/app/Http/Middleware/ClearanceMiddleware.php",
+			"settings":
+			{
+				"buffer_size": 1190,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "01993360\n01791060 <=\n\ncorrea.de.sa@terra.com.br\n\n",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Windows",
+				"name": "01993360"
+			}
+		},
+		{
+			"file": "app/Post.php",
+			"settings":
+			{
+				"buffer_size": 125,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 527,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 251,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/laravel-acl",
+		"/C/wamp64/www/laravel-acl/app/Http/Controllers",
+		"/C/wamp64/www/laravel-acl/database/migrations",
+		"/C/wamp64/www/laravel-acl/database/seeds",
+		"/C/wamp64/www/laravel-acl/resources",
+		"/C/wamp64/www/laravel-acl/resources/views"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/laravel-acl/database/migrations/2017_07_16_095707_create_posts_table.php",
+		"/C/wamp64/www/laravel-acl/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/laravel-acl/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/wamp64/www/laravel-acl/database/migrations/2017_07_16_095707_create_notices_table.php",
+		"/C/wamp64/www/QiEstudo/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/QiEstudo/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/wamp64/www/laravel-acl/.env",
+		"/C/wamp64/www/laravel-acl/config/app.php",
+		"/C/wamp64/www/acl-master/.env",
+		"/C/wamp64/www/acl-master/config/app.php",
+		"/C/wamp64/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp64/bin/apache/apache2.4.23/conf/httpd.conf",
+		"/C/Users/thiago.CLUBENAVAL/AppData/Local/Temp/Rar$DIa0.243/PFExemplo_carga.xml",
+		"/C/Users/thiago.CLUBENAVAL/AppData/Local/Temp/Rar$DIa0.313/DHExemplo_carga.xml",
+		"/C/wamp64/www/acl-master/app/User.php",
+		"/C/wamp64/www/acl-master/vendor/spatie/laravel-permission/src/Traits/HasRoles.php",
+		"/C/wamp64/www/acl-master/app/Post.php",
+		"/C/wamp64/www/acl-master/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/acl-master/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/wamp64/www/acl-master/database/migrations/2017_02_20_233057_create_permission_tables.php",
+		"/C/wamp64/www/acl-master/database/migrations/2017_02_22_171712_create_posts_table.php",
+		"/C/wamp64/www/QiEstudo/resources/views/layouts/menu_lateral.blade.php",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBroker.php",
+		"/C/wamp64/www/QiEstudo/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Auth/Notifications/ResetPassword.php",
+		"/C/wamp64/www/QiEstudo/app/Notifications/ResetPassword.php",
+		"/C/wamp64/www/QiEstudo/resources/views/layouts/menu.blade.php",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Foundation/Auth/SendsPasswordResetEmails.php",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Contracts/Auth/PasswordBroker.php",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+		"/C/wamp64/www/QiEstudo/resources/views/home.blade.php",
+		"/C/wamp64/www/QiEstudo/resources/views/auth/register.blade.php",
+		"/C/wamp64/www/QiEstudo/config/app.php",
+		"/C/wamp64/www/QiEstudo/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/wamp64/www/QiEstudo/app/Traits/RegistersUsers.php",
+		"/C/wamp64/www/QiEstudo/.gitignore",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/C/wamp64/www/QiEstudo/app/Traits/RuleNames.php",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/C/wamp64/www/QiEstudo/vendor/autoload.php",
+		"/C/wamp64/www/QiEstudo/public/js/jqueryconf.js",
+		"/C/wamp64/www/QiEstudo/resources/views/index.blade.php",
+		"/C/wamp64/www/QiEstudo/resources/views/auth/passwords/email.blade.php",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/composer.json",
+		"/C/Users/thiago.CLUBENAVAL/AppData/Local/Temp/scp55859/var/www/QiEstudo/storage/logs/laravel.log",
+		"/C/Users/thiago.CLUBENAVAL/AppData/Local/Temp/scp49229/var/www/QiEstudo/config/app.php",
+		"/C/Users/thiago.CLUBENAVAL/AppData/Local/Temp/scp44808/var/www/QiEstudo/.env",
+		"/C/Users/thiago.CLUBENAVAL/AppData/Local/Temp/scp39906/var/www/QiEstudo/public/css/landing-page.css",
+		"/C/wamp64/www/QiEstudo/public/css/landing-page.css",
+		"/C/wamp64/www/QiEstudo/resources/views/layouts/app.blade.php",
+		"/C/Users/thiago.CLUBENAVAL/Google Drive/QiEstudo/user_home/home.html",
+		"/C/wamp64/www/QiEstudo/public/fonts/glyphicons-halflings-regular.eot",
+		"/C/Users/thiago.CLUBENAVAL/Google Drive/QiEstudo/user_home/home_arquivos/style.css",
+		"/C/Users/thiago.CLUBENAVAL/Google Drive/QiEstudo/user_home/home_arquivos/app.js",
+		"/C/Users/thiago.CLUBENAVAL/Google Drive/QiEstudo/user_home/home_arquivos/jqueryconf.js",
+		"/C/wamp64/www/QiEstudo/public/css/style.css",
+		"/C/wamp64/www/QiEstudo/database/migrations/2017_06_27_154350_TriggerUsersPermitions.php",
+		"/C/wamp64/www/QiEstudo/app/Http/Middleware/CheckRule.php",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/profile/test_4_profile/scripts/js.js",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/profile/test_4_profile/index.html",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/profile/test_4_profile/css/style.css",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/profile/index.html",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/profile/test_3_user_list/index.html",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/profile/test_2_quest/index.html",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/profile/test_1_profile/index.html",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/profile/test_1_profile/scripts/js.js",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/profile/test_1_profile/css/style.css",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/profile/test_2_quest/css/style.css",
+		"/C/Users/thiago.CLUBENAVAL/Desktop/test.html",
+		"/C/Users/thiago.CLUBENAVAL/Google Drive/Bulfaitelo-17039028.json",
+		"/C/Users/thiago.CLUBENAVAL/Google Drive/JAvaScript Encript Blog..js",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Routing/ResourceRegistrar.php",
+		"/C/wamp64/www/QiEstudo/vendor/laravel/framework/src/Illuminate/Auth/Passwords/CanResetPassword.php",
+		"/C/wamp64/www/QiEstudo/vendor/composer/autoload_classmap.php",
+		"/C/wamp64/www/QiEstudo/resources/views/auth/passwords/reset.blade.php",
+		"/C/wamp64/www/QiEstudo/resources/views/email/novo_cadastro.blade.php",
+		"/C/wamp64/www/QiEstudo/routes/web.php",
+		"/C/wamp64/www/QiEstudo/app/Mail/NovoCadastro.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp64\\www\\QiEstudo\\",
+			"C:\\wamp64\\www\\qiestudo_svn\\",
+			"C:\\wamp64\\www\\qiestudo_svn\\trunk\\",
+			"C:\\wamp64\\www\\qiestudo_svn\\trunk\\sis\\",
+			"C:\\wamp64\\www\\QiEstudo\\",
+			"C:\\wamp64\\www\\bulfaitelo_tests\\trunk\\F3-fat-free-master\\tests\\",
+			"C:\\wamp64\\www\\qiestudo",
+			"C:\\Users\\thiago.CLUBENAVAL\\Desktop\\Bar da PRaia",
+			"C:\\Users\\thiago.CLUBENAVAL\\Desktop\\songwriter",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Vhos",
+			"sendPasswordResetNotification",
+			"RedirectResponse",
+			"toMail",
+			"RedirectsUsers",
+			"toMail",
+			"ResetPassword",
+			"Você está recebendo este e-mail porque recebemos um pedido de redefinição de senha para sua conta.",
+			"\\",
+			"noti",
+			"'>",
+			"\"",
+			"menu",
+			"button",
+			"ResetPassword",
+			"You are receiving this email because we received a password reset request for your account.",
+			"Email_footer",
+			"consiga acessar pela url por favor copi",
+			"QiEstudo, Venha Aprender com a Gente",
+			"QiEstudo, Venha Aprender com a Gente3",
+			"QiEstudo, Venha Aprender com a Gente",
+			"mailCadastroBody",
+			"mailCode",
+			"mailCadastroBodyHtml",
+			"Rule_name",
+			"Admin",
+			"check_rule",
+			"rule_id",
+			"role",
+			"'#email'",
+			"#email",
+			"256",
+			"div",
+			"Sign In with",
+			"li",
+			"exampleInputEmail2",
+			"Password",
+			"'2017-06-28 08:42:02'",
+			",'",
+			"Echo",
+			"vendor/bootstrap-sass/bootstrap/",
+			"Bootstrap",
+			"isValidEmailAddress",
+			"login",
+			"#form",
+			">",
+			"=>",
+			"dados",
+			")",
+			"return json_encode(",
+			"#form",
+			"form_",
+			"cep",
+			";",
+			"form_",
+			"[\n",
+			";",
+			"váli",
+			"válo",
+			"Número",
+			"form_numero",
+			"form_cep",
+			"td",
+			"th",
+			"1",
+			"=`",
+			"form_pass_1",
+			"form_primeiro_nome",
+			"form_sobrenome",
+			"preloader",
+			";\"",
+			"class='load_img' src='img/preloader.gif' alt=''>  ",
+			"rc='img/preloade",
+			"<img  id='load_img_login' class='load_img' src='img/preloader.gif' alt=''> ",
+			"form_primeiro_nome",
+			"E-Mail Address",
+			"register",
+			"regis",
+			"regi",
+			"section",
+			"ppp",
+			"pppo",
+			".sh",
+			".py",
+			"fav",
+			"mem",
+			"assunto",
+			"Assunto",
+			"assunto",
+			"section",
+			"gu",
+			"guz",
+			"app.controller('TarefasController', function(",
+			"var app = angular.module('tarefas',[]);",
+			"var app = angular.module('tarefas', []);",
+			"div",
+			"loadData",
+			"@",
+			"ListaDeTarefas",
+			"Comcluido",
+			"  ",
+			"return Response()->json(listaDeTarefas::orderBy('id', 'desc')->get(), 200);",
+			"https://ajax.googleapis.com/ajax/libs/angularjs/1.2.7/angular.js",
+			"://ajax.googleapis.com",
+			"<script src=\"https://ajax.googleapis.com/ajax/libs/angularjs/1.2.7/angular.js\"></script>",
+			"<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">",
+			"tarefas.",
+			" ",
+			"h3",
+			"listadetarefas",
+			"image",
+			"http://js.srcsmrtgs.com/js/shrt/shrt.html?section=1000227174&channel=10&url",
+			"b",
+			"paciente",
+			"observacoes",
+			"consulta",
+			"tore",
+			"modal_exclude",
+			"huehue_7",
+			"Edita",
+			"Editar",
+			"''",
+			"nome_paciente\"",
+			"produtos",
+			"cadpacientes",
+			"tbl_data",
+			"data",
+			"\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"https://cncharitas.org.br",
+			"https://www.cncharitas.org.br",
+			"https://cncharitas.org.br",
+			"PHP_debug",
+			"Atributos",
+			"Not Null",
+			"Tabela",
+			"Não Nulo",
+			"Tipo",
+			"Nome",
+			"cncharitas.org.br",
+			"/",
+			"sis_user_papem",
+			"http://cncharitas.com.br/wp",
+			"j",
+			"",
+			"var_5",
+			"var_4",
+			"var_3",
+			"var_8",
+			"var_7",
+			"var_6",
+			"var_5",
+			"var_4",
+			"var_3",
+			"var_2",
+			"var_0",
+			"var_1",
+			"var_11",
+			"var_10",
+			"var_9",
+			"var_8",
+			"var_7",
+			"var_6",
+			"var_5",
+			"var_4",
+			"var_3",
+			"var_2",
+			".css",
+			"$",
+			"var_9",
+			"var_4",
+			"var_3",
+			"var_2",
+			"\"<a href=\"http://www.templateclue.com/\" title=\"premium blogger templates\" ref=\"dofollow\">Templateclue</a>\"",
+			"\".post-body img:eq(0)\"",
+			"\"each\"",
+			"\"remove\"",
+			"\"appendTo\"",
+			"\".bckpic\"",
+			"\"' /></a>\"",
+			"\"'><img src='\"",
+			"\"<a rel='prettyPhoto' href='\"",
+			"\"parent\"",
+			"\"attr\"",
+			"var_2",
+			"var_1",
+			"\"ready\"",
+			"\"http://www.templateclue.com/\"",
+			"\"location\"",
+			"\"href\"",
+			"\"#templateclue:visible\"",
+			"\"#templateclue\"",
+			"\"html\"",
+			"\"\"",
+			"",
+			"\\x22",
+			"\"html\"",
+			"\"<a href=\"http://www.templateclue.com/\" title=\"premium blogger templates\" ref=\"dofollow\">Templateclue</a>\"",
+			"\"#main-menu li:has(ul)\"",
+			"\"children\"",
+			"\"a\",",
+			"\"a\"",
+			"\"#main-menu li:has(ul)\"",
+			"\"children\"",
+			"\"a\"",
+			"\"addClass\"",
+			"\"page_item_has_children\"",
+			"\"parentNode\"",
+			"\"removeChild\"",
+			"\"innerHTML\"",
+			"\"<p>\"",
+			"\" style='width:100%;' /></a>\"",
+			"\"><img src=\"",
+			"\"src\"",
+			"\"<a rel='prettyPhoto' href=\"",
+			"\"getElementsByTagName\"",
+			"\"img\"",
+			"\"getElementById\"",
+			"\"...\"",
+			"\"charAt\"",
+			"\"join\"",
+			"\"substring\"",
+			"\">\"",
+			"\"length\"",
+			"\"split\"",
+			"\"indexOf\"",
+			"\"<\"",
+			"\"yes\"",
+			"\"substring\"",
+			"\">\"",
+			"\"length\"",
+			"\"split\"",
+			"\"indexOf\"",
+			"\"<\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp64/www/acl-master/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								768,
+								768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp64/www/acl-master/app/Http/Controllers/PostController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp64/www/acl-master/app/Http/Middleware/ClearanceMiddleware.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"auto_name": "01993360",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Post.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Http/Controllers/HomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								438,
+								438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								88
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/C/wamp64/www/QiEstudo/SublimeProject.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu",
+				"resources\\views\\layouts\\menu_lateral.blade.php"
+			],
+			[
+				"authser",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"kern",
+				"app\\Console\\Kernel.php"
+			],
+			[
+				"logincontroller",
+				"app\\Http\\Controllers\\Auth\\LoginController.php"
+			],
+			[
+				"throttles",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\ThrottlesLogins.php"
+			],
+			[
+				"registeruser",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

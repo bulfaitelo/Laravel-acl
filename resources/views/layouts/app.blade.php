@@ -28,9 +28,19 @@
                     </button>
 
                     <!-- Branding Image -->
-                    <a class="navbar-brand" href="{{ url('/') }}">
-                        {{ config('app.name', 'Laravel') }}
-                    </a>
+                    <ul class="nav nav-tabs">
+                        <li>
+                            <a class="navbar-brand" href="{{ url('/') }}">
+                                {{ config('app.name', 'Laravel') }}
+                            </a>
+                        </li>
+                        <li>
+                            <a class="navbar-brand" href="{{ url('/home') }}">
+                                Home
+                            </a>                            
+                        </li>
+                    </ul>
+                    
                 </div>
 
                 <div class="collapse navbar-collapse" id="app-navbar-collapse">

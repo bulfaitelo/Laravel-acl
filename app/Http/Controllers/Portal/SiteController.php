@@ -1,22 +1,14 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\Portal;
 
 use Illuminate\Http\Request;
 use App\Post;
 use Gate;
+use App\Http\Controllers\Controller;
 class SiteController extends Controller
 {
-    /**
-     * Create a new controller instance.
-     *
-     * @return void
-     */
-    public function __construct()
-    {
-        $this->middleware('auth');
-    }
-
+ 
     /**
      * Show the application dashboard.
      *
@@ -24,10 +16,7 @@ class SiteController extends Controller
      */
     public function index(Post $post)
     {
-        $posts = $post->all();   
-        // $posts = $post->where('user_id', auth()->user()->id)->get();
-        // dd(compact('posts'));
-        return view('home', compact('posts'));
+        return view('portal.home.index');
     }
 
     public function update($idPost )

@@ -68,6 +68,14 @@ ul.relatorios li h1{
 }
 
 
+.permission{
+    background: #579491;
+    padding: 8px;
+    color: #FFF;
+    border-radius: 4px;
+    margin: 4px;
+}
+
 .edit{
     background: #5A1F17;
     padding: 8px;

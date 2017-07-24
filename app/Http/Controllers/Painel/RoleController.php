@@ -5,15 +5,19 @@ namespace App\Http\Controllers\Painel;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\Role;
+use Gate;
 
 class RoleController extends Controller
 {
     private $role;
 	public function __construct(role $role) {
 		$this->role = $role;
+		if(Gate::denies('adm'))
+    		return redirect()->back();
 	}
 	public function index() {
 		$roles = $this->role->all();
+		
 		return view('painel.roles.index', compact('roles'));
 	}
 
